@@ -1,0 +1,14 @@
+# Test Complete ignore files: https://webmesh.cc/about
+
+# Tester-specific Settings
+*.tcCFGExtender
+*.tcLS
+
+# Type library declarations
+*.tlb
+
+# Log files
+*.tcLogs
+
+# Backup files
+*.bak
